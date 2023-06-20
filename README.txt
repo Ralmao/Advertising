@@ -1,4 +1,4 @@
-# Advertising
+Advertising
 Using Linear Regression for a sales prediction
 Libraries:
 import pandas as pd
