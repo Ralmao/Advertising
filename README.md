@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression
 
+Explaining the algorithm : 
+
 The code first imports the numpy and sklearn.linear_model modules. Then, it creates the input data and target values. The input data is a NumPy array with four rows and two columns. The target values are a NumPy array with four elements.
 
 Next, the code creates a linear regression model object. The LinearRegression() class takes a number of parameters, but the default values are usually fine.
